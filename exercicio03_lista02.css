@@ -1,0 +1,35 @@
+body{
+    background-color: #808080;
+}
+.div1{
+background-color: white;
+height:500px;
+width: 50vw;
+border:black 10px dotted;
+flex-direction: column;
+justify-content: center;
+
+}
+.div1 .div2{
+    display: flex;
+    background-color: yellow;
+    height: 50px;
+    width:30%;
+}
+.div1 .div3{
+    display: flex;
+    background-color: rgb(255, 69, 0);
+    height:100px;
+    width: 30%;
+
+}
+.div1 .div4{
+    display: flex;
+    background-color: #008000;
+    color:white;
+    font-size: 30px;
+    padding:50px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}

@@ -1,0 +1,28 @@
+.div1{
+    background-color: #8e0000; 
+    height: 400px; 
+    width: 400px;  
+}
+.div2{
+    background-color: #ff00d0; 
+    height: 250px; 
+    width: 250px;
+}
+.paragrafo{
+    background-color: #000000; 
+    color:#6f5eb6; 
+    font-size: 30px; 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-weight:bold; 
+
+}
+.div3{
+    width:70%; 
+    background-color: rgb(47, 69, 41); 
+    height: 75vh; 
+}
+.div4{
+    background-color: rgb(0, 105, 251); 
+    width:30vw; 
+    height:30%
+}
